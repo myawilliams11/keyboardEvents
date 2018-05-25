@@ -2,7 +2,7 @@
 #box {width: 100px; 
     height: 100px; 
     position: absolute;
-    background: gray;
+    background: url("https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ftimedotcom.files.wordpress.com%2F2018%2F05%2Fmichelle-barack-obama.jpg%3Fquality%3D85%26w%3D612%26h%3D492%26crop%3D1&w=100&h=100&c=sc&poi=face&q=85");
     left: 200px;
     top: 200px;}
 
